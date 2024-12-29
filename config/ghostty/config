@@ -1,0 +1,5 @@
+theme = Earthsong 
+font-size = 15 
+cursor-style = bar 
+shell-integration = zsh 
+confirm-close-surface = false 

@@ -136,6 +136,7 @@ window#waybar.hidden {
   color: #e78a4e;
   margin: 5px 2px;
   border-bottom: 2px solid #e78a4e;
+  border-radius: 2px;
 }
 
 /* ================================ */
